@@ -1,0 +1,22 @@
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.log
+*.tmp
+
+# Python files
+__pycache__/
+*.pyc
+venv/
+myworld/
+
+# Node dependencies
+node_modules/
+
+# Secret environment files
+.env
+.env.*
+
